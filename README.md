@@ -2,6 +2,8 @@
 
 Author: Byung Chun Kim
 
+금요일 수업..
+
 테스트 페이지 입니다.
 
 테스트777
